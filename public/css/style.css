@@ -1,0 +1,195 @@
+
+body{
+	margin:0px;
+	padding:0px;
+
+
+}
+.header{}
+
+.dropdown-menu{text-align:center; }
+
+.dropdown-menu :hover{color:red!important; }
+
+
+.navbar {
+
+}
+.navbar-header{font-size: 20px;}
+.navbar-brand {font-size: 20px;}
+
+
+.nav.navbar-nav li a{
+	font-size:17px; 
+	color:orange;
+	margin-top:10px;
+	margin-left:10px;
+	}
+
+.nav.navbar-nav li a:hover{color:orange; }
+
+.my_row{background:white; padding: 10px; }
+
+.row {
+   
+    margin-left: 0px; 
+}
+			
+
+}
+#myCarousel  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img{
+		width: 100%;
+		margin: auto;
+		
+}
+.carousel-inner{margin-top:65px;}
+
+.my_icon{
+	margin-top:0px;
+	font-size:0px;
+
+	
+}
+
+.media (min-width: 0px)
+.container {
+    width: 0px; 
+
+}
+
+
+.my_icon h4{
+	
+	color:black;
+}
+
+.my_icon p{
+	margin-bottom:50px;
+	font-size:15px;
+	color:black;
+	}
+
+.caption{text-align:center;}
+.section h2{
+	font-size:40px;
+	text-align:center;
+	margin-top:80px;
+}
+
+.section h3{
+	font-size:15px;
+	font-style: italic;
+	margin-top:30px;
+	margin-bottom:50px;
+	text-align:center;
+
+}
+.thumbnail img{margin-top:10px;}
+
+.thumbnail_1 img{
+	height:260px;
+	Width:550px;
+	text-align:left;
+	margin:0px;
+	padding:0px
+	}
+.thumbnail_1 img {margin-left:-7px; margin-top:8px; margin-bottom:8px}
+
+
+.about{margin-top:60px;}
+.my_timeline img{
+	border-radius:50%;
+	padding:30px;
+	display:block;
+	margin-top:10px;
+	margin: 0 auto
+}
+.my_timeline{margin-bottom:50px;}
+
+.my_timeline2 p{text-align:right;}
+.my_timeline2 h4{text-align:right;}
+
+.team{background:#EEEEEE;}
+.team1{margin-top:50px;}
+.head{
+	text-align:center;margin-top:50px; 
+}
+
+
+.my_text2{margin-top:50px; margin-bottom:50px;}
+
+
+
+}
+.my_img{margin-top:10px;}
+
+
+
+.my_contant{margin-bottom:50px;margin-top:40px;}
+.form-control{margin-top:15px;}
+.btn1{margin-top:40px;color:white}
+
+
+
+video{  margin-top:-58px;
+		height:300px;
+		width:340px;
+		
+}
+
+/*  biceps Styles Start*/
+
+.biceps{margin-top:20px;}
+.biceps img{height:200px;width:380px;}
+
+
+
+/*  biceps Styles End*/
+
+
+
+/*  Footer Styles Start*/
+
+.footer_contents {
+
+	color:white;
+	background:#468BA8;
+
+}
+
+
+.number{color:white;}
+.footer_area{margin-top:10px;}
+.footer_area h3{font-size:20px; color:white}
+.footer_area p{font-size:13px;color:white;}
+
+.footer-bottom{
+				text-align:center; 
+			
+				color:white;
+				font-size:15px;
+
+			}
+
+
+.footer_content{margin-left: -20px;}
+
+/*  Footer Styles End*/
+
+
+.black{
+  color: black;
+}
+
+.active{
+	border: 1px solid black;
+}
+.hover:hover{
+    transform: scale(1.02);
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.3);
+    /*box-shadow: 0 14px 28px rgba(0,0,0,0,25), 0 10px 10px rgba(0,0,0,0,22);*/
+}
+.caption{
+	margin-top: -23px;
+}
